@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "for you...",
+  "base_artist": "高橋真梨子",
+  "createdAt": "2026-02-22T10:21:38.916758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/01_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/02_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad For You",
+      "artist": "The SteelDrivers",
+      "has_synced": false,
+      "path": "select/03_Bad_For_You_The_SteelDrivers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel For You",
+      "artist": "Boy Named Banjo",
+      "has_synced": true,
+      "path": "select/04_Feel_For_You_Boy_Named_Banjo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For You",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/05_For_You_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For You",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/06_For_You_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Have I Got A Deal For You",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/07_Have_I_Got_A_Deal_For_You_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Do For You",
+      "artist": "Dillon Carmichael",
+      "has_synced": true,
+      "path": "select/08_I_Do_For_You_Dillon_Carmichael.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Feel for You",
+      "artist": "Charley Crockett",
+      "has_synced": false,
+      "path": "select/09_I_Feel_for_You_Charley_Crockett.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Wait for You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/10_I'll_Wait_for_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I've Cried My Last Tear For You",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/11_I've_Cried_My_Last_Tear_For_You_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Cried My Last Tear For You (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/12_I've_Cried_My_Last_Tear_For_You_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Only Over for You",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/13_It's_Only_Over_for_You_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Only Over For You",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/14_It's_Only_Over_For_You_Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Made for You",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/15_Made_for_You_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Prayed for You",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/16_Prayed_for_You_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Prayed For You",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/17_Prayed_For_You_Matt_Stell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "For you...",
+      "artist": "高橋 真梨子",
+      "has_synced": false,
+      "path": "select/pl_01_For_you..._高橋_真梨子.txt"
+    }
+  ]
+}
